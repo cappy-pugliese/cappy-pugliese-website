@@ -19,5 +19,8 @@ output: pdf_document
 <p>Need to update ruby to a specific version </p>
 <p>- had to install homebrew <br>
 - had to install rbenv<br>
-- need to install ruby-build
+- need to install ruby-build --> apparently it was already installed
+- installed ruby version 3.2.5<br>
+  - having trouble installing jekyll using the newly installed ruby version
+  - it is still using the older ruby version, idk why
 
