@@ -7,10 +7,17 @@ output: pdf_document
 
 ## installing jekyll
 
-<p>Originally had difficulty directly installing jekyll from the command line bc of write permission errors. </p>
+### First problem
+
+  <p>Originally had difficulty directly installing jekyll from the command line bc of write permission errors. </p>
 <p>- tried to problem solve by manually changing write permissions <br>
   - worked at first but then ran into other issues <br>
   - had to download one thing and then maybe something else </p>
 
-Next issue
+### Second problem
+
+<p>Need to update ruby to a specific version </p>
+<p>- had to install homebrew <br>
+- had to install rbenv<br>
+- need to install ruby-build
 
