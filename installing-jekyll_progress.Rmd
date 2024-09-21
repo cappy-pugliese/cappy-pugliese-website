@@ -23,4 +23,6 @@ output: pdf_document
 - installed ruby version 3.2.5<br>
   - having trouble installing jekyll using the newly installed ruby version
   - it is still using the older ruby version, idk why
+  - it seemed I just had to be patient and wait (something that is nearly impossible for me)
+    - but it worked and I was successfully able to download jekyll
 
