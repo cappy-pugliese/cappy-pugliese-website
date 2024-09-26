@@ -10,7 +10,6 @@ exclude:
 
 # Site settings
 title: Cappy Pugliese
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: cappy.pugliese@gmail.com
 name: Cappy Pugliese
 description: >
@@ -76,19 +75,20 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
+
   - name: GitHub
     icon: github
     username: cappy-pugliese
     url: https://github.com/cappy-pugliese
     desc: Fork me on GitHub
-    share: true
+    share: false
 
   - name: LinkedIn
     icon: linkedin
     username: Cappy Pugliese
     url: https://www.linkedin.com/in/cappy-pugliese-a0489524b
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
 
 
@@ -96,12 +96,6 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
-
-    twitter_image: "/assets/logo.png"
 
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
