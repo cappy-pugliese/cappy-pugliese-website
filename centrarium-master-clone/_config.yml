@@ -13,10 +13,9 @@ title: Cappy Pugliese
 email: cappy.pugliese@gmail.com
 name: Cappy Pugliese
 description: >
- MIT License  
- Copyright (c) 2024 Cappy  
- Powered by Jekyll using the Centrarium theme, courtesy of [Ben Centra](https://github.com/bencentra).
- 	url: 
+ <p>MIT License <br>
+ Copyright (c) 2024 Cappy</p>
+ <p>Powered by Jekyll using the <a href="https://github.com/bencentra/centrarium">Centrarium theme</a>, courtesy of Ben Centra</p>
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
