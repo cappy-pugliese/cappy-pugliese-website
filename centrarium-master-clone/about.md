@@ -5,8 +5,6 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-photo.jpg "Profile Picture"){:.profile}
-
 ## Cappy Pugliese (they/them)
 I am an Ecology and Evolutionary Biology Masters student at the University of Connecticut. I also completed my undergraduate studies at UConn, working in the [Klassen lab](https://www.jonathanklassenlab.com/) where I researched pathogenic fungi within the attini ant-fungi symbiosis.
 
