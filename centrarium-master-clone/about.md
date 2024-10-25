@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about-layout
 title: About
 permalink: /about/
 main_nav: true
