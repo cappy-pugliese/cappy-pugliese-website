@@ -26,6 +26,14 @@ html, body {
 	width: 100%;
 	background-color: black;
   color: white;
+  
+  a {
+  color: $orange;
+  &:hover {
+    color: darken($orange, 10%);  
+  }
+}
+
 }
 
 ol.default {
@@ -130,7 +138,7 @@ pre code.hljs {
 	top: 0;
 	left: 0;
 	right: 0;
-	background: $white;
+	
 	z-index: 1;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
