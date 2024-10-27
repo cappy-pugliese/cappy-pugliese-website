@@ -21,12 +21,8 @@ html, body {
 }
 
 .dark-mode {
-	margin: 0;
-	padding: 0;
-	width: 100%;
 	background-color: black;
   color: white;
-  
   a {
   color: $orange;
   &:hover {
@@ -138,7 +134,6 @@ pre code.hljs {
 	top: 0;
 	left: 0;
 	right: 0;
-	
 	z-index: 1;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
@@ -154,6 +149,7 @@ pre code.hljs {
       display: none;
     }
   }
+	
   // Nav menu
   .navigation-wrapper {
   	@include outer-container;
@@ -163,6 +159,7 @@ pre code.hljs {
   .home-page {
     float: left;
     height: 4em;
+    line-height: 4em;
   	}
   nav {
     float: none;
