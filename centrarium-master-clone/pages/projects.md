@@ -20,9 +20,7 @@ Effects of Various Fungal Pathogens on _Trachymyrmex septentrionalis_ Ants and t
 
 - I presented my results at UConn’s Annual Undergraduate Research Colloquium in MCB and at the Frontiers in Undergraduate Research Poster Exhibition in April 2024
 
-[more info](link to other doc)
-
-I conducted 2 separate infection experiments with 6 different types of pathogenic fungi genera: Escovopsis, Syncephalastrum, Fusarium, Metarhizium, Beauveria, and Trichoderma (plus a control group). One infection experiment was run on the ant’s fungal gardens without the ants present, and the second experiment was conducted with the ants present. Measurements of the fungal garden weights, food incorporation, and trash production were collected over the course of a week and a half after infection. The data was inserted into excel and transferred to R for analysis and graph generation.
+[more info](/undergrad-research-project/)
 
 
 #### Website Project
