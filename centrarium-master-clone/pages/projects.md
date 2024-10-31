@@ -10,6 +10,7 @@ main_nav: true
 - elaborate
 
 #### EEB Educational Outreach 
+- also elaborate
 
 ## Past Projects
 #### Undergrad Senior Year Research Project
