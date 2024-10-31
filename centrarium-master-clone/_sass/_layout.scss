@@ -20,18 +20,6 @@ html, body {
 	background-color: white;
 }
 
-.dark-mode {
-	background-color: black;
-  color: white;
-  a {
-  color: $orange;
-  &:hover {
-    color: darken($orange, 10%);  
-  }
-}
-
-}
-
 ol.default {
   @extend %default-ol;
 }
@@ -131,6 +119,7 @@ pre code.hljs {
 	margin: 0;
 	// Remove this to make header scrollable again
 	position: fixed;
+	background-color: $white;
 	top: 0;
 	left: 0;
 	right: 0;

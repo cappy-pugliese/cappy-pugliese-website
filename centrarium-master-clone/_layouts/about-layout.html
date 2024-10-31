@@ -9,22 +9,25 @@ main_nav: true
   	display: grid;
   	grid-template-columns: auto auto;
   	grid-gap: 20px;
-  	padding: 20px;
+  	padding: 0px;
   }
+	div .grid-container {
+		a {
+  		text-decoration: underline;
+  	}
+	}
+
 </style>
-
+	<p></p>
 	<div class="grid-container">
+		
 		<div class="grid-item">
-
-<img src="/assets/profile-photo.jpg" alt="image of Cappy Pugliese">
-
-			
+		<img src="/assets/profile-photo.jpg" alt="image of Cappy Pugliese">
 		</div>
 
 		<div class="grid-item">
-
-{{ content }}
-			
+		{{ content }}
 		</div>
-	
+	<p></p>
 	</div>
+

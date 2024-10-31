@@ -15,7 +15,13 @@ pagination:
 </div>
 
 <div class="wrapper">
-{{ page.content.content | markdownify }}
+<h2>
+	<a href="/projects/">Projects</a>
+	</h2>
+	<section>
+      <p>{{ projects.content | strip_html | truncatewords: 50 }}</p>
+    </section>
+
 </div>
 
 <div class="wrapper">
