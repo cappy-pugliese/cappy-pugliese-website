@@ -215,6 +215,9 @@ pre code.hljs {
 	.wrapper {
 		@include outer-container;
 		padding: 1em;
+		a {
+  		text-decoration: underline;
+  	}
 	}
 	/*
 	*	index.html

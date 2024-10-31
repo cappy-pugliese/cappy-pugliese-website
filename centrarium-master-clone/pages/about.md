@@ -10,3 +10,4 @@ I am an Ecology and Evolutionary Biology Masters student at the University of Co
 
 Currently, I am working in the [Dagilis lab](https://dagilislab.github.io/DagilisLab) focusing on the pathogenic fungus responsible for White-Nose Bat Syndrome (_Pseudogymnoascus destructans_). More specifically, I am working on retesting the genome diversity of _P. destructans_, repeating the work of [Forsynthe et al. 2021](https://doi.org/10.3390/jof7030182).
 
+maybe move some of this stuff into the projects section, and talk more about myself?? like hobbies and interests and stuff?? mention what im wanting to do after grad school??
