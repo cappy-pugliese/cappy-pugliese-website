@@ -6,9 +6,9 @@ main_nav: true
 ---
 
 ## Cappy Pugliese (they/them)
-I am an Ecology and Evolutionary Biology Masters student at the University of Connecticut. I also completed my undergraduate studies at UConn, working in the [Klassen lab](https://www.jonathanklassenlab.com/) where I researched pathogenic fungi within the attini ant-fungi symbiosis.
+I an Ecology and Evolutionary Biology Masters student at the University of Connecticut. I am currently working in the [Dagilis lab](https://dagilislab.github.io/DagilisLab) focusing on the pathogenic fungus responsible for White-Nose Bat Syndrome, _Pseudogymnoascus destructans_. I also completed my undergrad at UConn in the [Klassen lab](https://www.jonathanklassenlab.com/) where I researched pathogenic fungi within the attini ant-fungi symbiosis. [(see more about my current and previous lab work here)](link)
 
-Currently, I am working in the [Dagilis lab](https://dagilislab.github.io/DagilisLab) focusing on the pathogenic fungus responsible for White-Nose Bat Syndrome (_Pseudogymnoascus destructans_). More specifically, I am working on retesting the genome diversity of _P. destructans_, repeating the work of [Forsynthe et al. 2021](https://doi.org/10.3390/jof7030182).
+
 
 I originally went to grad school aiming for a career in ecological field work, but am now leaning towards a career in science education or outreach.
 
