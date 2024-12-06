@@ -9,7 +9,9 @@ main_nav: false
 
 <h3><p style="text-align: center;">Experiment Overview</p></h3>
 
-I conducted 2 separate infection experiments with 6 different types of pathogenic fungi genera: _Escovopsis, Syncephalastrum, Fusarium, Metarhizium, Beauveria,_ and _Trichoderma_ (plus a control group). One infection experiment was run on the ant’s fungal gardens without the ants present, and the second experiment was conducted with the ants present. Measurements of the fungal garden weights, food incorporation, and trash production were collected over the course of a week and a half after infection. I made graphs of the collected data in R, and presented my work at the Annual MCB Undergraduate Symposium and UConn Frontiers Poster Presentation Events.
+I tested how a few different species of fungal pathogens affect ants and their fungal gardens. I ran two different infection experiments; one with both the ants and their fungal gardens present and one with only the fungal gardens present. The infection experiment without the ants present was run mainly to make sure that the fungal pathogens were able to properly infect and grow on the ant's fungal gardens. See poster below for more information and visit [my leafcutter ant behavior website](https://caprinalpugliese.wixsite.com/leafcutter-ants) to learn more about the ant and fungal symbiosis!
+
+![project poster](../assets/images/2024_undergrad-poster-presentation.jpg)
 
 <p style="text-align: center;">
 <button onclick="location.href='/assets/pdfs/poster-presentation.pdf'" type="button">
