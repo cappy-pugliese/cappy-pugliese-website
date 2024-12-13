@@ -12,6 +12,7 @@ I an Ecology and Evolutionary Biology Masters student at the University of Conne
 Currently, I am thinking about becoming either a middle school science teacher or doing science outreach. I really love working with kids and want to be able to spread the joy of science to young, creative minds.
 
 ## Fun Facts
-- I have a cat named Spidey and I like to take him with me on hikes! (picture)
+- I have a cat named Spidey and I like to take him with me on hikes!
 - I like to play video games (I love zelda)
+- I am currently learning how to speak Portuguese and ASL!
 
