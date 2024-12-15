@@ -24,10 +24,6 @@ main_nav: true
   - had a class discussion about different animal adaptions
   - played a predator-prey tag game to demonstrate advantages of certain adaptations
 
-<p style="float: right;">
-<img src="/assets/images/4th-grade-eeb-outreach.JPEG" alt="caption">
-![Presenting in 4th grade classroom. Kids blurred for privacy reasons.](../assets/images/4th-grade-eeb-outreach.JPEG)
-</p>
 
 ## YMCA Camp Sloper Outreach
 - 143 acre outdoor campground donated to the YMCA by Cornelia Sloper Neil
