@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: outreach-layout
 title: Outreach
 permalink: /outreach/
 main_nav: true
@@ -24,6 +24,17 @@ main_nav: true
   - had a class discussion about different animal adaptions
   - played a predator-prey tag game to demonstrate advantages of certain adaptations
 
+<p style="float: right;">
+<img src="/assets/images/4th-grade-eeb-outreach.JPEG" alt="caption">
 ![Presenting in 4th grade classroom. Kids blurred for privacy reasons.](../assets/images/4th-grade-eeb-outreach.JPEG)
+</p>
 
 ## YMCA Camp Sloper Outreach
+- 143 acre outdoor campground donated to the YMCA by Cornelia Sloper Neil
+- located in Southington, CT
+- I work as a day camp counselor during the summer
+  - have worked with kids ages 5-15
+- off-season I work school field trip days
+  - nearby schools and some schools in more urban areas come here to have fun and experience the outdoors!
+  - supervised a variety of different classrooms and made lasting impressions
+  
