@@ -31,6 +31,6 @@ main_nav: true
 - I work as a day camp counselor during the summer
   - have worked with kids ages 5-15
 - off-season I work school field trip days
-  - nearby schools and some schools in more urban areas come here to have fun and experience the outdoors!
+  - nearby schools come here to have fun and experience the outdoors!
   - supervised a variety of different classrooms and made lasting impressions
   

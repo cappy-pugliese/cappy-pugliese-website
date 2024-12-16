@@ -2,7 +2,7 @@
 layout: page
 title: Inclusion
 permalink: /inclusion/
-main_nav: true
+main_nav: false
 ---
 possibly change title name, there's probably something better that I can think of???
 
