@@ -221,7 +221,11 @@ pre code.hljs {
 	}
 	.small-wrapper {
 		padding: 1em;
-	}
+  	margin-right: auto;
+ 	 	margin-left: auto;
+ 	 	max-width:1000px;
+		}
+		
 	/*
 	*	index.html
 	*/

@@ -16,21 +16,33 @@ main_nav: true
   		text-decoration: underline;
   	}
 	}
-
+	.grid-item1 {
+		grid-row: 1 / 4;
+		}
+	.grid-item2 {
+		grid-row: 1
+		}
+	.grid-item3 {
+		grid-row: 2
+		}
 </style>
+
 	<p></p>
 	<div class="grid-container">
 		
-		<div class="grid-item">
+		<div class="grid-item2">
 		<p>
 		<img src="/assets/images/profile-photo.jpg" alt="image of Cappy Pugliese standing on a bridge outside in the fall foliage. Cappy is wearing a frog and mushroom beanie and has red-tinted glasses. They are smiling.">
 		</p>
+		</div>
+		
+		<div class="grid-item3">
 		<p>
 		<img src="/assets/images/spidey-picture.jpg" alt="image of my cat, spidey. He's laying like a proper gentleman with his paws together in the passenger seat of my car.">
 		</p>
 		</div>
 
-		<div class="grid-item">
+		<div class="grid-item1">
 		{{ content }}
 		</div>
 	<p></p>

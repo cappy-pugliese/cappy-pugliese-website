@@ -12,7 +12,7 @@ main_nav: true
   - helps show them the fun in science
   - gives them a sense of belonging in STEM
 
-[Link to EEB Outreach Website](https://uconneeb.github.io/outreach/elementary-school-outreach.html)
+<a href="https://uconneeb.github.io/outreach/elementary-school-outreach.html" target="_blank">Link to EEB Outreach Website</a>
 
 #### Fall 2024
   
