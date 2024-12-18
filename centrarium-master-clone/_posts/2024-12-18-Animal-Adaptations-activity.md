@@ -4,8 +4,8 @@ title:  "Animal Adaptations Game"
 date:   2024-12-18T20:05:01
 author: Cappy Pugliese
 categories: Outreach
-tags: 3rd-grade ocean marine-life crafts
-cover:  "/assets/images/ocean-background-2.png"
+tags: 4th-grade animals adaptations games
+cover:  "/assets/images/owl-in-tree.png"
 ---
 
 We ran this activity with the 3rd grade classrooms at Natchaug Elementary School
